@@ -1,0 +1,6 @@
+Usage :
+  bash verifier.sh 3 lemot     vérifie le mot de l'étape 3
+  bash verifier.sh 7           vérifie le rangement de l'étape 7
+  bash verifier.sh etat        montre votre progression
+  bash verifier.sh final       vérifie le carnet complet
+  bash verifier.sh bonus1 42   vérifie la réponse du bonus 1
